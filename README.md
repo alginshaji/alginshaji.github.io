@@ -1,2 +1,2 @@
-# s2cinternship.github.io
+# s2cinternship
 System2Cloud Internship
