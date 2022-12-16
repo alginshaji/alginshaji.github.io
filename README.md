@@ -1,2 +1,1 @@
-# s2cinternship
-System2Cloud Internship
+MY LEARNING SECTION!!!
